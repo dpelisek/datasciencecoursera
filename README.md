@@ -1,2 +1,2 @@
 # datasciencecoursera
-public repository for coursera data science spezialization
+public repository for coursera data science specialization
